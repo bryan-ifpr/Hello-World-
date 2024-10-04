@@ -1,2 +1,1 @@
-def adeus():
-    print("Goodbye, World!")
+import main
